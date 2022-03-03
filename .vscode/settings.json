@@ -1,0 +1,4 @@
+{
+  "cSpell.words": ["firestore", "pinput"],
+  "dart.flutterRunAdditionalArgs": ["--no-sound-null-safety"]
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "425145469846",
+    "project_id": "bee-css",
+    "storage_bucket": "bee-css.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425145469846:android:eb57e2212cbcddde026bb7",
+        "android_client_info": {
+          "package_name": "com.example.bee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425145469846-5bmm6d1svpfg3he19of4cr924ia7fn1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bee",
+            "certificate_hash": "21f6654652a00cbe133f6342c33f70b7499a4d22"
+          }
+        },
+        {
+          "client_id": "425145469846-1fa47tsq7nbk9fugjm6n4tln4v0ell7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEnd7EfvN3BVIBcr_WlXIM6N7auBoNx1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425145469846-1fa47tsq7nbk9fugjm6n4tln4v0ell7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
